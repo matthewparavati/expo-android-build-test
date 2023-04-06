@@ -13,6 +13,8 @@ buildscript {
 
         // We use NDK 23 which has both M1 support and is the side-by-side NDK version from AGP.
         ndkVersion = "23.1.7779620"
+        // Changing to this ndk version creates a successful android build - I didn't try other versions, this is just the one that was used previously found from the react-native upgrade helper
+        // ndkVersion = "24.0.8215888"
     }
     repositories {
         google()
