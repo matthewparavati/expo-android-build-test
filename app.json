@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "android-build-test",
+    "slug": "android-build-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
